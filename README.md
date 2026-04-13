@@ -1,4 +1,4 @@
-# Clone GPT Mockup
+# Clone-GPT-ELIZA-mockup
 
 A ChatGPT-style web app built with Express, TypeScript, EJS, HTMX, and Tailwind CSS.<br>
 (Attention: This project is not yet finished. The goal is to create an extremely small LLM chat application.)
